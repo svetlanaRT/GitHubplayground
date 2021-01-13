@@ -1,0 +1,11 @@
+cd C:\Users\adlin\Desktop\Git\FolderToUploadToGitHub
+
+cmd
+
+git status
+
+git init
+git add
+git commit -m "message"
+
+git push -u origin master (main)
